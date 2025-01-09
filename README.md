@@ -1,9 +1,3 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Alain+Ambrose....;Nice+to+meet+you!&&color=7b7b7a&center=true&size=30">
-  </a>
-</h1>
-
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/alain-ambrose/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"></a></code>
 </h5>
